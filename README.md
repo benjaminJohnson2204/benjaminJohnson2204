@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello!
+
+My name is Benjamin Johnson, and I'm a student interested in computer programming and software development. I've mainly programmed in Python, Java, and Javascript, and I've used several frameworks including React, NodeJS, Express, Django, Flask, and Flutter.
 
 <!--
 **benjaminJohnson2204/benjaminJohnson2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
