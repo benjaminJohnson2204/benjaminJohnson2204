@@ -1,39 +1,39 @@
 # Hello!
 
-My name is Benjamin Johnson. I'm a freshman at UC San Diego, majoring in Computer Science. I enjoy programming anything and everything, especially websites, video games, and robots.
+My name is Benjamin Johnson. I'm a rising sophomore at UC San Diego, majoring in Computer Science. I'm currently interning at Adsys Controls in Irvine, CA, doing embedded software engineering.
+
+I'm interested in web and mobile development, game development, AI, embedded systems, and computer vision. 
+
+I also enjoy hiking, running, chess, board games, puzzles, and video games.
 
 ## Contact
 - **Email:** ben332004@gmail.com
 - **LinkedIn:** [linkedin.com/in/~benjamin-johnson](https://www.linkedin.com/in/~benjamin-johnson)
-- **Discord**: BennyBoi#9714
 
-## Experience
-### [SkillMapper](https://skillmapper.com/), Software Engineer Intern
- 
-Since the beginning of September, I've been a part-time Software Engineer Intern at SkillMapper, working on the front end of their website. 
- 
-### FIRST Robotics Competition (FRC) Team 4201
+## My Personal Projects
+### [Financial Aide](https://github.com/benjaminJohnson2204/financial-aide-frontend)
 
-In 11th and 12th grade, I was a member of my school's FRC team. I worked on programming robots in Java. In 12th grade, I was a Software Director, responsible for leading the team's programming tasks. In FRC, I loved experiencing the excitement of solving problems and seeing my code work in a competition setting.
+I created this budgeting tool that allows users to enter and track budgets and expenses. Users can budget their planned expenses by category, and can do so by week, month, or year. They can use raw dollar amounts or percentages of income. Users can enter their actual expenses one transaction at a time, then compare their actual vs. planned total spending by category. There are bar and pie charts to easily compare this information. Expense lists and comparison data can be exported as CSV files. 
 
-## Projects
+I used React, Next.js, MaterialUI, and TypeScript for the front end, and Django, Postgres, and SwaggerUI for the back end. I used the Django Rest Framework to create Rest APIs in Django, and the DRF Spectacular package to document the API and generate an API spec that can be served as a [SwaggerUI page](https://financial-aide-backend.vercel.app/docs/). I also used this API spec to generate a client library for my front end, reducing the need for boilerplate, repetitive API-fetching code.
+
 ### [Gaming Website](https://github.com/benjaminJohnson2204/GamingWebsite)
 
-This is a website I created for playing single-player and multi-player games. So far, users can play Tic-Tac-Toe, Dots and Boxes, and Tetris. I also have an authentication and friends system, where users can send each other friend requests and play against their friends. 
+I created this website for playing single-player and multi-player games. Users can play Tic-Tac-Toe, Dots and Boxes, and Tetris. Users can send each other friend requests and play against their friends, or play against a random opponent.
 
 I used Express and Node for the server, React for the front end, a MongoDB database for users, friends, and games, Konva for rendering games, and Socket.IO for real-time client-server communication. I also used Passport and Bcrypt for session authentication.
-
-### [E-commerce Website](https://github.com/benjaminJohnson2204/rugs-website)
-
-I developed this website to be a platform for users to view and buy rugs, and for admins to post new rugs. Users can add rugs to their carts and then check out, just like a real e-commerce site but without actual payments. Users can also subscribe to receive emails when an admin posts a new rug. 
-
-I made a Django server, using Django REST Framework to create REST APIs to authenticate users and track rugs, orders, and carts. I used Django's ORM and default SQLite database. I wrote the front end using React and TypeScript.
-
 ### [Algorithm Visualizations](https://github.com/benjaminJohnson2204/Algorithm-Visualizations)
 
 I built this website as a way for students to visualize, and therefore better understand, various CS-related algorithms. So far, I have visualizations for arrays and linked lists. 
 
 I used Next.js, React, and TypeScript, as well as D3 to display and animate shapes that represent the data structures (for example, bars of different heights for array elements).
+
+### [E-commerce Website](https://github.com/benjaminJohnson2204/commerce-site-frontend)
+
+I developed this website to be a platform for users to view and buy rugs, and for admins to post new rugs. Users can add rugs to their carts and then check out, just like a real e-commerce site but without actual payments. Users can also subscribe to receive emails when an admin posts a new rug. 
+
+I made a Django server, using Django REST Framework to create REST APIs to authenticate users and track rugs, orders, and carts. I used Django's ORM and default SQLite database. I wrote the front end using React and TypeScript.
+
 
 ### [Studying App](https://github.com/benjaminJohnson2204/studying-app)
 
@@ -41,10 +41,6 @@ I created a mobile app using Flutter for users to review and study by answering 
 
 I wrote an Express server, with a MongoDB database, to handle token authentication and supply problems, answers, and users' progress to the front end.
 
-## Skills
-- **Languages**: Python, Java, JavaScript, HTML, CSS, TypeScript, C, SQL
-- **Frameworks**: MongoDB, Express, React, Redux, Node, Next.js, Django, Flask, Flutter
-- **Tools**: Git, Github, Docker, CI/CD, Firebase, Postman
 
 
 
