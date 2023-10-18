@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Benjamin Johnson. I'm a rising sophomore at UC San Diego, majoring in Computer Science. I'm currently interning at Adsys Controls in Irvine, CA, doing embedded software engineering.
+My name is Benjamin Johnson. I'm a sophomore at UC San Diego, majoring in Computer Science. 
 
 I'm interested in web and mobile development, game development, AI, embedded systems, and computer vision. 
 
