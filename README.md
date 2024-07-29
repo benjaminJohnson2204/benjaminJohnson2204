@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Benjamin Johnson. I'm a sophomore at UC San Diego, majoring in Computer Science. 
+My name is Benjamin Johnson. I'm currently interning at Apple on the Game Services UI team, in Cupertino. I'm also a rising junior at UC San Diego, majoring in Computer Science. 
 
 I'm interested in web and mobile development, game development, AI, embedded systems, and computer vision. 
 
